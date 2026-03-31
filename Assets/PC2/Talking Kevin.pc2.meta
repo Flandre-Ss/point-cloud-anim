@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: b2538254f28bd084cb2d465778c64ed4
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 725c5f72116b55a4f8e43198fcf5ba9e, type: 3}
+  coordinateConversion: 1
+  scale: 1
+  frameRate: 24
+  useFrame0AsBindPose: 1
+  referenceMesh: {instanceID: 0}
+  totalFrames: 1346
+  totalPoints: 39456
+  fileStartFrame: 300.00003
+  fileSampleRate: 1
+  mappingMaxError: -1
