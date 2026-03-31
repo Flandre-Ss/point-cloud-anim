@@ -1,2 +1,8 @@
+*.mdd filter=lfs diff=lfs merge=lfs -text
+*.pc2 filter=lfs diff=lfs merge=lfs -text
+Kevin.pc2 filter=lfs diff=lfs merge=lfs -text
+Kevin.mdd filter=lfs diff=lfs merge=lfs -text
+.pc2 filter=lfs diff=lfs merge=lfs -text
+.mdd filter=lfs diff=lfs merge=lfs -text
 Assets/MDD/Talking[[:space:]]Kevin.mdd filter=lfs diff=lfs merge=lfs -text
 Assets/PC2/Talking[[:space:]]Kevin.pc2 filter=lfs diff=lfs merge=lfs -text
